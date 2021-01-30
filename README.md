@@ -16,5 +16,5 @@ so that I have quick access to emails and GitHub profiles
 
 ### Screenshots
 
-https://github.com/dmehrmann76/team-generator/blob/main/assets/html%20screenshot.png
+![Alt text]https://github.com/dmehrmann76/team-generator/blob/main/assets/html%20screenshot.png
 
