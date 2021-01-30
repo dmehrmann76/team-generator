@@ -18,3 +18,4 @@ so that I have quick access to emails and GitHub profiles
 
 ![Alt text](https://github.com/dmehrmann76/team-generator/blob/main/assets/html%20screenshot.png)
 
+![Alt text](https://github.com/dmehrmann76/team-generator/blob/main/assets/CLI%20screenshot.png)
