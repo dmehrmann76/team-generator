@@ -13,6 +13,10 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 ```
 
+### Link to Screencastify of working CLI Team Generator 
+
+https://drive.google.com/file/d/13CB6Q0_iP2AtlcqrG-PFP1rM96Olk3w8/view
+
 
 ### Screenshots
 
